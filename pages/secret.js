@@ -18,7 +18,7 @@ const Secret = ({ loggedInUser }) => (
     </div>
 
 )
-    
+
 Secret.propTypes = {
     loggedInUser: PropTypes.object
 };

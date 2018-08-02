@@ -1,1 +1,1 @@
-{"/secret":"bundles/pages/secret.js","/index":"bundles/pages/index.js","/_app":"bundles/pages/_app.js","/_error":"bundles/pages/_error.js","/_document":"bundles/pages/_document.js","/":"bundles/pages/index.js"}
+{"/index":"bundles/pages/index.js","/login":"bundles/pages/login.js","/logout":"bundles/pages/logout.js","/public":"bundles/pages/public.js","/redirect":"bundles/pages/redirect.js","/secret":"bundles/pages/secret.js","/_app":"bundles/pages/_app.js","/_error":"bundles/pages/_error.js","/_document":"bundles/pages/_document.js","/":"bundles/pages/index.js"}
