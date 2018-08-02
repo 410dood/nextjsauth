@@ -1,7 +1,7 @@
 module.exports =
 __NEXT_REGISTER_PAGE('/', function() {
           var comp =
-      webpackJsonp([4],{
+      webpackJsonp([5],{
 
 /***/ "./components/Header.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -27829,6 +27829,7 @@ var clientID = process.env.CLIENTID || 'tvVNrCD9w2qChzBM8NrAdktDgpdDfk8b'; // yo
 
 var domain = process.env.DOMAIN || 'doodcoin.auth0.com'; // your domain
 
+var StripePublishableKey = process.env.StripePublishableKey || 'k_test_wpLL5Va4uYLNa9cNmqo94381';
 
 /* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__("./node_modules/process/browser.js")))
 
@@ -28214,14 +28215,6 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 /***/ }),
 
-/***/ 3:
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__("./pages/index.js");
-
-
-/***/ }),
-
 /***/ 4:
 /***/ (function(module, exports) {
 
@@ -28248,9 +28241,17 @@ module.exports = __webpack_require__("./pages/index.js");
 
 /* (ignored) */
 
+/***/ }),
+
+/***/ 8:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__("./pages/index.js");
+
+
 /***/ })
 
-},[3])
+},[8])
           return { page: comp.default }
         })
       ;

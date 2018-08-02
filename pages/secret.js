@@ -16,10 +16,12 @@ const Secret = ({ loggedInUser }) => (
             <pre>{ JSON.stringify(loggedInUser, null, 2) }</pre>
         </div>
     </div>
-)
 
+)
+    
 Secret.propTypes = {
     loggedInUser: PropTypes.object
 };
+
 
 export default SecureTemplate(Secret);

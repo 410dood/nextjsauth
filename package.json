@@ -4,14 +4,17 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@material-ui/core": "^1.4.2",
     "auth0-js": "^9.7.3",
     "isomorphic-unfetch": "^2.1.1",
     "js-cookie": "^2.2.0",
     "jsonwebtoken": "^8.3.0",
     "next": "^6.1.1",
+    "nprogress": "^0.2.0",
     "prop-types": "latest",
     "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react-dom": "^16.4.2",
+    "react-stripe-checkout": "^2.6.3"
   },
   "devDependencies": {},
   "scripts": {

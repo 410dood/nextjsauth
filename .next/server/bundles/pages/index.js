@@ -67,7 +67,7 @@ module.exports =
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -268,6 +268,7 @@ var clientID = process.env.CLIENTID || 'tvVNrCD9w2qChzBM8NrAdktDgpdDfk8b'; // yo
 
 var domain = process.env.DOMAIN || 'doodcoin.auth0.com'; // your domain
 
+var StripePublishableKey = process.env.StripePublishableKey || 'k_test_wpLL5Va4uYLNa9cNmqo94381';
 
 
 /***/ }),
@@ -651,7 +652,7 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("./pages/index.js");
