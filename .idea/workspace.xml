@@ -2,61 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f5e3aa1-9f88-45dd-b92d-c48379717450" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/29e7575cad6efc905e95.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.29e7575cad6efc905e95.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.29e7575cad6efc905e95.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.47c01401a28da1b72ef6.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.47c01401a28da1b72ef6.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.65f687f1d3303f6c2bcb.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.65f687f1d3303f6c2bcb.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.7e9b59d8aa69bc60397d.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.7e9b59d8aa69bc60397d.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.ceb8b671e0e3a8c9b373.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.ceb8b671e0e3a8c9b373.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.e0806dad19469a0da024.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.e0806dad19469a0da024.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/47c01401a28da1b72ef6.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/65f687f1d3303f6c2bcb.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/7e9b59d8aa69bc60397d.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/96a603d2a68072fb7245.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/BUILD_ID" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/_app.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/_error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/_error.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/logout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/public.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/redirect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/secret.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/secret.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/c9241007a836637d7e61.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/ceb8b671e0e3a8c9b373.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/e0806dad19469a0da024.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/_app.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/_document.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/_document.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/_error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/_error.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/logout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/public.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/redirect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/secret.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/secret.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/commons/main-b29ba3e74d842caf5cdb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/commons/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/commons/main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/commons/manifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/commons/manifest.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -120,16 +66,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/Header.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="690">
@@ -240,10 +186,10 @@
         <option value="$PROJECT_DIR$/components/stripe.js" />
         <option value="$PROJECT_DIR$/pages/public.js" />
         <option value="$PROJECT_DIR$/pages/secret.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/settings.js" />
         <option value="$PROJECT_DIR$/static/auth0.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -339,12 +285,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533218158000</updated>
       <workItem from="1533218160569" duration="4621000" />
-      <workItem from="1533223886467" duration="5378000" />
+      <workItem from="1533223886467" duration="5482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9999000" />
+    <option name="totallyTimeSpent" value="10103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="840" height="1027" extended-state="0" />
@@ -497,13 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/Header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -511,6 +450,13 @@
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
